@@ -1,0 +1,1 @@
+start /d "C:\Program Files\Internet Explorer" IEXPLORE.EXE file:///%CD%/tumblrthemr/index.html#/theme/offtopic/url/offtopic.futurice.com
