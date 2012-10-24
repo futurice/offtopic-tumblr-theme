@@ -1,11 +1,11 @@
 # Require any additional compass plugins here.
 
 # Set this to the root of your project when deployed:
-http_path = "http://testi.com"
-css_dir = "tumblrthemr-1.1/themes/offtopic/css"
-sass_dir = "tumblrthemr-1.1/themes/offtopic/sass"
-images_dir = "tumblrthemr-1.1/themes/offtopic/images"
-javascripts_dir = "tumblrthemr-1.1/themes/offtopic/js"
+http_path = "http://futurice.github.com/offtopic-tumblr-theme"
+css_dir = "tumblrthemr/themes/offtopic/css"
+sass_dir = "tumblrthemr/themes/offtopic/sass"
+images_dir = "tumblrthemr/themes/offtopic/images"
+javascripts_dir = "tumblrthemr/themes/offtopic/js"
 
 
 # You can select your preferred output style here (can be overridden via the command line):
