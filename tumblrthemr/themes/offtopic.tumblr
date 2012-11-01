@@ -1,5 +1,14 @@
 {block:tumblrThemr}
 
+  <!-- 
+      ACHTUNG!
+      WHEN UPLOADING A NEW VERSION TO THE TUMBLR WEBSITE, REMEMBER TO MODIFY URLS OF THESE REFERENCES:
+      * themes/offtopic/css/default.css
+      * themes/offtopic/images/header_background_normal.png
+  -->
+
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="themes/offtopic/css/default.css" type="text/css" media="screen"/>
   <style type="text/css">{CustomCSS}</style>
 
@@ -7,10 +16,10 @@
 
 
     <header>
-      <div 
-      <a href="/">
-        {Title}
-      </a>
+      <img class="background" src="themes/offtopic/images/header_background_normal.png">
+        <a class="title" href="/">
+          Offtopic at&nbsp;2pm
+        </a>
     </header>
 
 
@@ -200,5 +209,9 @@
 
 
   </div><!-- /wrapper -->
+
+
+  <script type="text/javascript" src="themes/offtopic/js/jquery.min.js"></script>
+  <script type="text/javascript" src="themes/offtopic/js/index.js"></script>
 
 {/block:tumblrThemr}
